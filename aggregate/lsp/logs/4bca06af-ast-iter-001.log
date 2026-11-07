@@ -1,0 +1,7 @@
+[2026-11-07T17:32:35Z] === AST ITERATION 1 START | repo=ansible-collections/ansible.yang sha=4bca06af ===
+[2026-11-07T17:32:35Z] [iter=1] PHASE START: ast repo=ansible-collections/ansible.yang sha=4bca06af
+[2026-11-07T17:32:35Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T17:32:43Z] [iter=1] AST chunks built count=1 triples=94866
+[2026-11-07T17:32:43Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4bca06af5d1ad6e89782c27cec005482a3805f85/.complete
+[2026-11-07T17:32:43Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-11-07T17:32:43Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
