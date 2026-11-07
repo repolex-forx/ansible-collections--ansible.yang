@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "ansible.yang",
+  "versions": [
+    {
+      "commit": "4bca06af5d1ad6e89782c27cec005482a3805f85",
+      "tag": "v3.1.0",
+      "parsed_at": "2026-11-07T17:33:51.053964+00:00"
+    }
+  ]
+}
